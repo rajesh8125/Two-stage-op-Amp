@@ -28,11 +28,11 @@ maintain the device’ stability, it includes
 compensation circuit whenever the device is in 
 negative feedback condition.
 
-Design specifications:
-PARAMETERS           VALUES
-Technology             28nm
-Power supply          +/_400mv
-Output swing        -400mv to +400mv
+# Design specifications:
+PARAMETERS with VALUES
+Technology-28nm
+Power supply +/_400mv
+Output swing "-400mv to +400mv"
 Open loop gain       >80dB
 Phase margin           600
 Power dissipation     <40uW
