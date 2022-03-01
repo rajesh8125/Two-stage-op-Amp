@@ -102,7 +102,10 @@ PARAMETERS with VALUES
 ![Screenshot (150)](https://user-images.githubusercontent.com/100671397/156127678-be9aa25d-91a6-4853-95e3-69187cc5ebde.png)
 
 
-
+# Acknowledgements
+Kunal Ghosh, Founder, VSD Corp. Pvt. Ltd
+Indian Institute Of Technology (IIT), Hyderabad
+Synopsys
 
 
 
