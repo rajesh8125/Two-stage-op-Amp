@@ -30,9 +30,12 @@ negative feedback condition.
 
 # Design specifications:
 PARAMETERS with VALUES
-Technology-28nm
-Power supply +/_400mv
-Output swing "-400mv to +400mv"
-Open loop gain       >80dB
-Phase margin           600
-Power dissipation     <40uW
+1)Technology-28nm
+2)Power supply +/_400mv
+3)Output swing "-400mv to +400mv"
+4)Open loop gain       40dB
+
+# Schematic Diagram of Two Stage of Operational amplifier
+![101](![Screenshot (148)](https://user-images.githubusercontent.com/100671397/156123860-efcb2ce5-b5bd-47be-8518-c531f069bd44.png) 
+
+
