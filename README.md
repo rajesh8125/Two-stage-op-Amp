@@ -1,7 +1,7 @@
 # Two-stage-op-Amp
 
 # Table of Contents
-- [Abstract](
+- [Abstract](https://github.com/rajesh8125/Two-stage-op-Amp/blob/main/README.md#abstract)
 
 # Abstract:
 An Operational amplifier is consider to 
