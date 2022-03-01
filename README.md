@@ -115,3 +115,4 @@ The real challange is to adjust W/L ratio of pMos and nMos such that both have a
 # Author
 THOUTAM RAJESH ,Master of Technology in Electronics and Communication Engineering, ANURAG UNIVERSITY
 
+
