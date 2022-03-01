@@ -50,8 +50,8 @@ PARAMETERS with VALUES
 
 
 # Netlist of Op-Amp
-a <br /> xm26 vout net114 net75 net75 p105 w=10.5u l=30n nf=5 m=2
-xm1 net114 net9 net75 net75 p105 w=9.5u l=0.03u nf=4 m=2
+<br /> xm26 vout net114 net75 net75 p105 w=10.5u l=30n nf=5 m=2
+<br />xm1 net114 net9 net75 net75 p105 w=9.5u l=0.03u nf=4 m=2
 xm0 net75 net9 net9 net75 p105 w=8u l=30n nf=4 m=2
 xm6 vout net110 gnd! gnd! n105 w=10.5u l=0.03u nf=3 m=2
 xm5 gnd! net110 net110 gnd! n105 w=4u l=0.03u nf=4 m=2
