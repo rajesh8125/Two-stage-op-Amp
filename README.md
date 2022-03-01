@@ -1,5 +1,8 @@
 # Two-stage-op-Amp
 
+# Table of Contents
+- [Abstract](
+
 # Abstract:
 An Operational amplifier is consider to 
 be the most imperative electronic device. The 
@@ -109,5 +112,6 @@ The real challange is to adjust W/L ratio of pMos and nMos such that both have a
 <br /> Indian Institute Of Technology (IIT), Hyderabad
 <br /> Synopsys
 
-
+# Author
+THOUTAM RAJESH ,Master of Technology in Electronics and Communication Engineering, ANURAG UNIVERSITY
 
