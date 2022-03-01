@@ -3,7 +3,8 @@
 # Table of Contents
 - [Abstract](https://github.com/rajesh8125/Two-stage-op-Amp/blob/main/README.md#abstract)
 - [Circuit details](https://github.com/rajesh8125/Two-stage-op-Amp/blob/main/README.md#circuit-details)
-- [Design specifications]() 
+- [Design specifications](https://github.com/rajesh8125/Two-stage-op-Amp/blob/main/README.md#design-specifications) 
+- [Reference Circuit]()
 # Abstract:
 An Operational amplifier is consider to 
 be the most imperative electronic device. The 
