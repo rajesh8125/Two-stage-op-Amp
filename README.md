@@ -6,7 +6,8 @@
 - [Design specifications](https://github.com/rajesh8125/Two-stage-op-Amp/blob/main/README.md#design-specifications) 
 - [Reference Circuit](https://github.com/rajesh8125/Two-stage-op-Amp#reference-circuit)
 - [Schematic Diagram](https://github.com/rajesh8125/Two-stage-op-Amp#schematic-diagram-of-two-stage-of-operational-amplifier)
-- [Waveforms](https://github.com/rajesh8125/Two-stage-op-Amp#transient-response-of-two-stage-op-amp) (https://github.com/rajesh8125/Two-stage-op-Amp#ac-analysis-with-gain-and-gain-bandwidth)
+- [Waveforms] (https://github.com/rajesh8125/Two-stage-op-Amp#transient-response-of-two-stage-op-amp) 
+(https://github.com/rajesh8125/Two-stage-op-Amp#ac-analysis-with-gain-and-gain-bandwidth)
 # Abstract:
 An Operational amplifier is consider to 
 be the most imperative electronic device. The 
