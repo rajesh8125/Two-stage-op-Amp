@@ -9,6 +9,8 @@
 - [Transient Response of Two Stage Op-Amp](https://github.com/rajesh8125/Two-stage-op-Amp#transient-response-of-two-stage-op-amp)
 - [Ac analysis with gain and gain bandwidth](https://github.com/rajesh8125/Two-stage-op-Amp#ac-analysis-with-gain-and-gain-bandwidth)
 - [Netlist of Op-Amp](https://github.com/rajesh8125/Two-stage-op-Amp#netlist-of-op-amp)
+- [Challenges](https://github.com/rajesh8125/Two-stage-op-Amp#challenge)
+
 
 # Abstract:
 An Operational amplifier is consider to 
@@ -109,7 +111,7 @@ PARAMETERS with VALUES
 <br /> .end
 ![Screenshot (150)](https://user-images.githubusercontent.com/100671397/156127678-be9aa25d-91a6-4853-95e3-69187cc5ebde.png)
 
-# Challenge
+# Challenges
 The real challange is to adjust W/L ratio of pMos and nMos such that both have approximately equal rise and fall time.
 
 # Acknowledgements
