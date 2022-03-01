@@ -103,9 +103,9 @@ PARAMETERS with VALUES
 
 
 # Acknowledgements
-Kunal Ghosh, Founder, VSD Corp. Pvt. Ltd
-Indian Institute Of Technology (IIT), Hyderabad
-Synopsys
+<br /> Kunal Ghosh, Founder, VSD Corp. Pvt. Ltd
+<br /> Indian Institute Of Technology (IIT), Hyderabad
+<br /> Synopsys
 
 
 
