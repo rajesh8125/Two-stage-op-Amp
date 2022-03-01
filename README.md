@@ -101,6 +101,8 @@ PARAMETERS with VALUES
 # netlist
 ![Screenshot (150)](https://user-images.githubusercontent.com/100671397/156127678-be9aa25d-91a6-4853-95e3-69187cc5ebde.png)
 
+# Challenge
+The real challange is to adjust W/L ratio of pMos and nMos such that both have approximately equal rise and fall time.
 
 # Acknowledgements
 <br /> Kunal Ghosh, Founder, VSD Corp. Pvt. Ltd
