@@ -42,6 +42,8 @@ PARAMETERS with VALUES
 ![Screenshot (149)](https://user-images.githubusercontent.com/100671397/156124432-b346a13c-d179-4d06-926a-859c3b2a4390.png)
 
 # Transient Response of Two Stage Op-Amp
+![Screenshot (144)](https://user-images.githubusercontent.com/100671397/156125411-2da8ffc1-f417-4f82-bea2-f989e75e4aac.png)
+
 
 
 
