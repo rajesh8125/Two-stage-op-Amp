@@ -82,36 +82,21 @@ PARAMETERS with VALUES
 <br /> v22 a gnd! dc=50m ac=1 sin ( 0 10m 1k 0 0 0 )
 <br /> v37 gnd! b dc=50m ac=1 sin ( 0 5m 1k 0 0 0 )
 
+<br /> .tran '0.001*(50m-0)' '50m' name=tran
+<br /> .ac dec '10' '0' '1meg' name=ac
+<br /> .dcOP
 
+<br /> .option primesim_remove_probe_prefix = 0
+<br /> .probe v(*) i(*) level=1
+<br /> .probe tran v(a) v(b) v(vout)
 
+<br /> .temp 25
 
+<br /> .option primesim_output=wdf
 
+<br /> .option parhier = LOCAL
 
-
-
-.tran '0.001*(50m-0)' '50m' name=tran
-.ac dec '10' '0' '1meg' name=ac
-.dcOP
-
-.option primesim_remove_probe_prefix = 0
-.probe v(*) i(*) level=1
-.probe tran v(a) v(b) v(vout)
-
-.temp 25
-
-
-
-.option primesim_output=wdf
-
-
-.option parhier = LOCAL
-
-
-
-
-
-
-.end
+<br /> .end
 
 
 
