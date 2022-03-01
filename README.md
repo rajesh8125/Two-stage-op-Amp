@@ -35,6 +35,9 @@ PARAMETERS with VALUES
 3)Output swing "-400mv to +400mv"
 4)Open loop gain       40dB
 
+# Reference Circuit:
+![Screenshot 2022-03-01 130348](https://user-images.githubusercontent.com/100671397/156124970-3b0d781c-a16c-45cb-b5d2-4da8e537345a.png)
+
 # Schematic Diagram of Two Stage of Operational amplifier
 ![Screenshot (149)](https://user-images.githubusercontent.com/100671397/156124432-b346a13c-d179-4d06-926a-859c3b2a4390.png)
 
