@@ -10,6 +10,9 @@
 - [Ac analysis with gain and gain bandwidth](https://github.com/rajesh8125/Two-stage-op-Amp#ac-analysis-with-gain-and-gain-bandwidth)
 - [Netlist of Op-Amp](https://github.com/rajesh8125/Two-stage-op-Amp#netlist-of-op-amp)
 - [Challenges](https://github.com/rajesh8125/Two-stage-op-Amp#challenge)
+- [Acknowledgements](https://github.com/rajesh8125/Two-stage-op-Amp#acknowledgements)
+- [Author](https://github.com/rajesh8125/Two-stage-op-Amp#author)
+- []()
 
 
 # Abstract:
@@ -108,7 +111,7 @@ PARAMETERS with VALUES
 
 <br /> .option parhier = LOCAL
 
-<br /> .end
+References.end
 ![Screenshot (150)](https://user-images.githubusercontent.com/100671397/156127678-be9aa25d-91a6-4853-95e3-69187cc5ebde.png)
 
 # Challenges
@@ -121,5 +124,14 @@ The real challange is to adjust W/L ratio of pMos and nMos such that both have a
 
 # Author
 THOUTAM RAJESH ,Master of Technology in Electronics and Communication Engineering, ANURAG UNIVERSITY
+
+# References 
+<br /> Kavyashree, C. L., M. Hemambika, K. Dharani, 
+Ananth V. Naik, and M. P. Sunil. "Design and 
+implementation of two stage CMOS operational 
+amplifier using 90nm technology." In 2017 
+International Conference on Inventive Systems and 
+Control (ICISC), pp. 1-4. IEEE, 2017
+
 
 
