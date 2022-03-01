@@ -118,7 +118,7 @@ References.end
 The real challange is to adjust W/L ratio of pMos and nMos such that both have approximately equal rise and fall time.
 
 # Acknowledgements
-<br /> Kunal Ghosh, Founder, VSD Corp. Pvt. Ltd
+<br /> Kunal Ghosh, Founder, VSD Corp. Pvt. Ltd - kunalpghosh@gmail.com
 <br /> Indian Institute Of Technology (IIT), Hyderabad
 <br /> Synopsys
 
