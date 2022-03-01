@@ -12,7 +12,7 @@
 - [Challenges](https://github.com/rajesh8125/Two-stage-op-Amp#challenge)
 - [Acknowledgements](https://github.com/rajesh8125/Two-stage-op-Amp#acknowledgements)
 - [Author](https://github.com/rajesh8125/Two-stage-op-Amp#author)
-- []()
+- [References](https://github.com/rajesh8125/Two-stage-op-Amp#references)
 
 
 # Abstract:
