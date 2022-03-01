@@ -50,20 +50,82 @@ PARAMETERS with VALUES
 
 
 # Netlist of Op-Amp
-<br /> xm26 vout net114 net75 net75 p105 w=10.5u l=30n nf=5 m=2
-<br /> xm1 net114 net9 net75 net75 p105 w=9.5u l=0.03u nf=4 m=2
-<br /> xm0 net75 net9 net9 net75 p105 w=8u l=30n nf=4 m=2
+<br /> *  Generated for: PrimeSim
+*  Design library name: cp.opamp
+*  Design cell name: cp.op
+*  Design view name: schematic
+.lib 'saed32nm.lib' TT
+
+*Custom Compiler Version S-2021.09
+*Tue Mar  1 07:41:39 2022
+
+.global gnd!
+********************************************************************************
+* Library          : cp.opamp
+* Cell             : cp.op
+* View             : schematic
+* View Search List : hspice hspiceD schematic spice veriloga
+* View Stop List   : hspice hspiceD
+********************************************************************************
+xm26 vout net114 net75 net75 p105 w=10.5u l=30n nf=5 m=2
+xm1 net114 net9 net75 net75 p105 w=9.5u l=0.03u nf=4 m=2
+xm0 net75 net9 net9 net75 p105 w=8u l=30n nf=4 m=2
+xm6 vout net110 gnd! gnd! n105 w=10.5u l=0.03u nf=3 m=2
+xm5 gnd! net110 net110 gnd! n105 w=4u l=0.03u nf=4 m=2
+xm4 net111 net110 gnd! gnd! n105 w=6u l=0.03u nf=4 m=2
+xm3 net111 b net114 gnd! n105 w=10.101u l=0.03u nf=3 m=2
+xm2 net9 a net111 gnd! n105 w=10.101u l=0.03u nf=3 m=2
+v8 net75 gnd! dc=1
+i14 net75 net110 dc=30u
+c24 net114 vout c=10p
+c25 vout gnd! c=10p
+v22 a gnd! dc=50m ac=1 sin ( 0 10m 1k 0 0 0 )
+v37 gnd! b dc=50m ac=1 sin ( 0 5m 1k 0 0 0 )
+
+
+
+
+
+
+
+
+.tran '0.001*(50m-0)' '50m' name=tran
+.ac dec '10' '0' '1meg' name=ac
+.dcOP
+
+.option primesim_remove_probe_prefix = 0
+.probe v(*) i(*) level=1
+.probe tran v(a) v(b) v(vout)
+
+.temp 25
+
+
+
+.option primesim_output=wdf
+
+
+.option parhier = LOCAL
+
+
+
+
+
+
+.end
+
+<br /> 
+<br /> 
 <br /> xm6 vout net110 gnd! gnd! n105 w=10.5u l=0.03u nf=3 m=2
 <br /> xm5 gnd! net110 net110 gnd! n105 w=4u l=0.03u nf=4 m=2
 <br /> xm4 net111 net110 gnd! gnd! n105 w=6u l=0.03u nf=4 m=2
 <br /> xm3 net111 b net114 gnd! n105 w=10.101u l=0.03u nf=3 m=2
 <br /> xm2 net9 a net111 gnd! n105 w=10.101u l=0.03u nf=3 m=2
 <br /> v8 net75 gnd! dc=1
-i14 net75 net110 dc=30u
-c24 net114 vout c=10p
-c25 vout gnd! c=10p
-v22 a gnd! dc=50m ac=1 sin ( 0 10m 1k 0 0 0 )
-v37 gnd! b dc=50m ac=1 sin ( 0 5m 1k 0 0 0 )
+<br /> i14 net75 net110 dc=30u
+<br /> c24 net114 vout c=10p
+<br /> c25 vout gnd! c=10p
+<br /> v22 a gnd! dc=50m ac=1 sin ( 0 10m 1k 0 0 0 )
+<br /> v37 gnd! b dc=50m ac=1 sin ( 0 5m 1k 0 0 0 )
 
 
 
