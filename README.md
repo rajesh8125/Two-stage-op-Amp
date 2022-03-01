@@ -41,5 +41,8 @@ PARAMETERS with VALUES
 # Schematic Diagram of Two Stage of Operational amplifier
 ![Screenshot (149)](https://user-images.githubusercontent.com/100671397/156124432-b346a13c-d179-4d06-926a-859c3b2a4390.png)
 
+# Transient Response of Two Stage Op-Amp
+
+
 
 
