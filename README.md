@@ -36,7 +36,6 @@ PARAMETERS with VALUES
 4)Open loop gain       40dB
 
 # Schematic Diagram of Two Stage of Operational amplifier
-![101](![Screenshot (148)](https://user-images.githubusercontent.com/100671397/156124072-f785acd8-113f-4d07-8d1f-12c22413ede1.png)
-) 
+(![Screenshot (148)](https://user-images.githubusercontent.com/100671397/156124072-f785acd8-113f-4d07-8d1f-12c22413ede1.png)
 
 
