@@ -123,7 +123,7 @@ The real challange is to adjust W/L ratio's of NMos and PMos such that both have
 <br /> Synopsys
 
 # Author
-THOUTAM RAJESH ,Master of Technology in Electronics and Communication Engineering, ANURAG UNIVERSITY
+THOUTAM RAJESH ,Master of Technology (VLSI) in Electronics and Communication Engineering, ANURAG UNIVERSITY
 
 # References 
 <br /> Kavyashree, C. L., M. Hemambika, K. Dharani, 
